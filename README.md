@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 我是聪ζ
+## 我是Kinny
 
 - 🌹 I am a Java developer with two and a half years of practice 🐵.
 - 🏡 作品： 
