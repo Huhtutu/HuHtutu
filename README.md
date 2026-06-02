@@ -16,8 +16,11 @@ Here are some ideas to get you started:
 -->
 ## 我是Carl
 
-- 🌹 I am a Java developer with two and a half years of practice 🐵.
-- 🏡 作品： 
+## 🎮 Unnecessary lore about me
+
+- 🐕 **Guardian Beast:** My dog, known on the streets as **"Tutu"**. Main responsibilities: stomping on my keyboard when I'm not coding, and guilt-tripping me with judgmental looks to update this site faster.
+
+- 📺 **Mental State:** Deeply addicted to **anime & binging shows**. If you're the same, congrats — we're now siblings from different parents.
 
 
 ### ✨ 我的技能(my skills)   
