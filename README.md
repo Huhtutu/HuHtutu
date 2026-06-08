@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 我是Carl
+## I'm Carl
 
 ## 🎮 Unnecessary lore about me
 
